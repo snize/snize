@@ -1,6 +1,6 @@
 uuid: 690f37df-7df5-4e9a-a40d-ce6924fb5c82
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - search
@@ -11,7 +11,7 @@ _core:
 id: bartik_search
 theme: bartik
 region: sidebar_first
-weight: -1
+weight: -6
 provider: null
 plugin: search_form_block
 settings:
